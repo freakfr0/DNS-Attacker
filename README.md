@@ -41,7 +41,3 @@ python dns_query.py google.com
 
 This will output the IP address of google.com, along with the TTL and DNS server used to query the domain.
 
-## License
-
-This tool is licensed under the MIT License. See the LICENSE file for more information.
-```
